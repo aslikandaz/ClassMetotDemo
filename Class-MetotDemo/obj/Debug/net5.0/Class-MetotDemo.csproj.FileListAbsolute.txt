@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\Class-MetotDemo\Class-MetotDemo\obj\Debug\net5.0\Class-MetotDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Class-MetotDemo\Class-MetotDemo\obj\Debug\net5.0\Class-MetotDemo.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Class-MetotDemo\Class-MetotDemo\obj\Debug\net5.0\Class-MetotDemo.AssemblyInfo.cs
+C:\Users\PC\source\repos\Class-MetotDemo\Class-MetotDemo\obj\Debug\net5.0\Class-MetotDemo.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Class-MetotDemo\Class-MetotDemo\bin\Debug\net5.0\Class-MetotDemo.exe
+C:\Users\PC\source\repos\Class-MetotDemo\Class-MetotDemo\bin\Debug\net5.0\Class-MetotDemo.deps.json
+C:\Users\PC\source\repos\Class-MetotDemo\Class-MetotDemo\bin\Debug\net5.0\Class-MetotDemo.runtimeconfig.json
+C:\Users\PC\source\repos\Class-MetotDemo\Class-MetotDemo\bin\Debug\net5.0\Class-MetotDemo.runtimeconfig.dev.json
+C:\Users\PC\source\repos\Class-MetotDemo\Class-MetotDemo\bin\Debug\net5.0\Class-MetotDemo.dll
+C:\Users\PC\source\repos\Class-MetotDemo\Class-MetotDemo\bin\Debug\net5.0\ref\Class-MetotDemo.dll
+C:\Users\PC\source\repos\Class-MetotDemo\Class-MetotDemo\bin\Debug\net5.0\Class-MetotDemo.pdb
+C:\Users\PC\source\repos\Class-MetotDemo\Class-MetotDemo\obj\Debug\net5.0\Class-MetotDemo.dll
+C:\Users\PC\source\repos\Class-MetotDemo\Class-MetotDemo\obj\Debug\net5.0\ref\Class-MetotDemo.dll
+C:\Users\PC\source\repos\Class-MetotDemo\Class-MetotDemo\obj\Debug\net5.0\Class-MetotDemo.pdb
+C:\Users\PC\source\repos\Class-MetotDemo\Class-MetotDemo\obj\Debug\net5.0\Class-MetotDemo.genruntimeconfig.cache
